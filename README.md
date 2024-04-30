@@ -1,3 +1,8 @@
+<h2>Welcome this is repository contains a site which have a responsive and interactive navigation menu made with :</h2>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+
 # Home:
 <img src="img/assets/home.png" />
 
