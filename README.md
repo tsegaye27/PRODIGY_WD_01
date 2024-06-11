@@ -6,9 +6,6 @@
 # Home:
 <img src="img/assets/home.png" />
 
-# About:
-<img src="img/assets/about.png"/>
-
 # Services:
 <img src="img/assets/services.png"/>
 
